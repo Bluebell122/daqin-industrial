@@ -23,7 +23,7 @@ npm run test
 项目通过 GitHub Actions 自动发布到 GitHub Pages。每次推送到 `main` 后会自动测试、构建并部署静态站点。首次部署完成后，访问：
 
 ```text
-https://bluebell122.github.io/debug-my-thinking/
+https://bluebell122.github.io/daqin-industrial/
 ```
 
 ## 两种分析模式
