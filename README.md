@@ -4,8 +4,12 @@
 
 ## 本地运行
 
+# 先安装 Node.js（npm 会一起安装）
 curl -fsSL https://deb.nodesource.com/setup_20.x | sudo -E bash -
 sudo apt-get install -y nodejs
+安装完成后验证：
+Bashnode -v
+npm -v
 
 ```bash
 npm install
